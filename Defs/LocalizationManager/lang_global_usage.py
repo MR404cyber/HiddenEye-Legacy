@@ -18,7 +18,7 @@ hidden_eye_logo = """
 
 input_line = "\n{0}MR.404 >>>  {1}".format(default_palette[0],
                                               default_palette[2])
-My channel = "{0}https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q".format(
+Channelku  = "{0}https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q".format(
     default_palette[0])
 by_darksec = "{0}** BY:MR.404 **".format(default_palette[0])
 line_of_dots = "{0}...............................".format(default_palette[0])
